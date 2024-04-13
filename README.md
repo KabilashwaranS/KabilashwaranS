@@ -40,9 +40,9 @@ I am a fresh graduate with a Bachelor's degree in Computer Science specializing 
 <div>
 <a href="https://coursera.org/share/6fa4afed5e13aed6616269816ab3c028"> <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-blue?&style=for-the-badge&logo=google&logoColor=white"/> </a>
 <a href="https://coursera.org/share/8d3a6e4010fbc7cc4ad15a18e972be9a"> <img src="https://img.shields.io/badge/-Security%20in%20Google%20Cloud-blue?&style=for-the-badge&logo=googlecloud&logoColor=white"/> </a>
-<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Introduction%20to%20Networks-yellow?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
-<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
-<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-green?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
+<a href="https://drive.google.com/file/d/11AOSdRnnRHC-PdQT7XV0K7lZYqm7Xe8i/view?usp=sharing"> <img src="https://img.shields.io/badge/-CCNA%3A%20Introduction%20to%20Networks-yellow?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
+<a href="https://drive.google.com/file/d/1GPr_HAbSHVTvYBiJhAQmNCr9sDw18tlU/view?usp=sharing"> <img src="https://img.shields.io/badge/-CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
+<a href="https://drive.google.com/file/d/1JVOnfEAqKGkPC64sJaJyoBT0-vFmZihX/view?usp=sharing"> <img src="https://img.shields.io/badge/-CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-green?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
 
 
 </div>
