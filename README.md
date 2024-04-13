@@ -3,25 +3,12 @@
 
 I am a fresh graduate with a Bachelor's degree in Computer Science specializing in Computer Network and Security with expertise in networking, security, and IT technical support. Proficient in configuring and maintaining network infrastructure, I am eager to apply my skills to safeguard digital assets and optimize network performance in a dynamic IT environment.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Projects
+- Google Cybersecurity
+- 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -32,14 +19,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=chronicle&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,9 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+
 
 <!--
 **KabilashwaranS/KabilashwaranS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
