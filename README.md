@@ -29,6 +29,12 @@ I am a fresh graduate with a Bachelor's degree in Computer Science specializing 
    
 </div>
 
+## Programming
+- C++
+- Java
+- SQL
+- Web Development
+
 ## Certifications
 
 <div>
