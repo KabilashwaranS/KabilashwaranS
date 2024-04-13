@@ -26,7 +26,7 @@ I am a fresh graduate with a Bachelor's degree in Computer Science specializing 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=chronicle&logoColor=white" />
+   
 </div>
 
 ## Certifications
