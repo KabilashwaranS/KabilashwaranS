@@ -48,7 +48,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <a href="https://coursera.org/share/6fa4afed5e13aed6616269816ab3c028"> <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-blue?&style=for-the-badge&logo=google&logoColor=white"/> </a>
 <a href="https://coursera.org/share/8d3a6e4010fbc7cc4ad15a18e972be9a"> <img src="https://img.shields.io/badge/-Security%20in%20Google%20Cloud-blue?&style=for-the-badge&logo=googlecloud&logoColor=white"/> </a>
-
+<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Introduction%20to%20Networks-yellow?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/-CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-green?style=for-the-badge&logo=cisco&logoColor=white"/> </a>
 
 
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
