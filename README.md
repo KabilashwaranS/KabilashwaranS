@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm KABILASHWARAN SELVARAJAN
 <a href="https://linkedin.com/in/kabilashwaran-selvarajan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a fresh graduate with a Bachelor's degree in Computer Science specializing in Computer Network and Security with expertise in networking, security, and IT technical support. Proficient in configuring and maintaining network infrastructure, I am eager to apply my skills to safeguard digital assets and optimize network performance in a dynamic IT environment.
@@ -47,8 +47,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://coursera.org/share/6fa4afed5e13aed6616269816ab3c028"> <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-blue?&style=for-the-badge&logo=google&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://coursera.org/share/6fa4afed5e13aed6616269816ab3c028"> <img src="https://img.shields.io/badge/-Security%20in%20Google%20Cloud%20Certification-blue?&style=for-the-badge&logo=googlecloud&logoColor=white"/> </a>
+
+
+
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
