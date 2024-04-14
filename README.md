@@ -6,7 +6,7 @@ I am a fresh graduate with a Bachelor's degree in Computer Science specializing 
 
 ## Projects
 <a href="https://github.com/KabilashwaranS/Google-Cybersecurity"> - Google Cybersecurity </a>
-- 
+<a href="https://github.com/KabilashwaranS/Packet-Tracer-Lab"> - Cisco Packet Tracer Lab </a>
 
 ## Tools
 
